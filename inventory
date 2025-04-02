@@ -1,4 +1,4 @@
-192.168.0.74	# ubuntu-svr1
-192.168.0.58	# ubuntu-svr2
-192.168.0.65	# ubuntu-svr3
+192.168.0.74 apache_package=apache2 php_package=libapache2-mod-php	# ubuntu-svr1
+192.168.0.58 apache_package=apache2 php_package=libapache2-mod-php	# ubuntu-svr2
+192.168.0.65 apache_package=apache2 php_package=libapache2-mod-php	# ubuntu-svr3
 
